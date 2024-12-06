@@ -1,4 +1,6 @@
 #include <iostream>
+#include <algorithm>
+#include <climits>
 using namespace std;
 
 //max sum subarray (brute force - O(N^3))
